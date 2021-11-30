@@ -1,0 +1,76 @@
+format* 
+question text / option 1 / option 2/ option 3/ option 4/ correct answer is option 3/ points/ category
+ex. 
+
+Death Valley is located in which U.S. state?
+Nevada
+Utah
+California
+Texas
+3
+5
+Geography 
+
+categories
+    Sports
+    UC 
+    History
+
+What NFL team won the first SuperBowl?
+Kansas City Cheifs
+Green Bay Packers
+Chicago Bears
+Dallas Cowboys
+2
+5
+Sports
+
+What NHL team has won the most Stanley Cups?
+Boston Bruins
+Pittsburg Penguins
+Montreal Canadiens
+Toronto Maple Leafs
+3
+10
+Sports
+
+What year was the University of Cincinnati founded?
+1819
+1822
+1810
+1815
+1
+5
+UC
+
+How many seasons has Head Coach Luke Fickle been with the UC bearcats?
+3
+5
+4
+6
+2
+10
+UC
+
+On what date was the Normandy invasion heald, otherwise known as D-Day?
+June 1st
+July 7th
+June 6th
+July 3rd
+3
+5
+History
+
+Which United States president approved the use of nuklear bombs to end WW2
+Franklin D. Roosevelt 
+Herbert C. Hoover
+Dwight D. Eisenhower
+Harry S. Truman
+4
+10
+History
+
+
+
+
+
